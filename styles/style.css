@@ -85,9 +85,7 @@
   margin: 0px 0px 0px 64px;
 }
 
-.main-illustration{
-  width: 765px;
-  height: 608px;
+.header__main-illustration{
   z-index: 1;
 }
 
@@ -96,7 +94,7 @@
   color: #2f80ed;
 }
 
-.main-illustration_place_holder{
+.header__main-illustration_place_holder{
   position: absolute;
   bottom: 0px;
   right: 0px;
@@ -126,9 +124,9 @@
 }
 
 .two-columns__span-accent{
-  margin: 30px 0;
   font-size: 24px;
   line-height: 34px;
+  margin: 30px 0;
 }
 
 .digits{
