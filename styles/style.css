@@ -180,7 +180,7 @@
   margin: 20px 0px 0px 0px;
 }
 
-.feinman{
+.feynman{
   height: 790px;
   padding: 100px 0px 0px 0px;
   display: flex;
@@ -194,7 +194,7 @@
   background-color:  #f2f2f2;
 }
 
-.feinman__title{
+.feynman__title{
   width: 648px;
   line-height: 1.15;
   font-size: 120px;
@@ -203,14 +203,14 @@
   flex-direction: column;
 }
 
-.feinman__subtitle{
+.feynman__subtitle{
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
   margin: 60px 0px 0px;
 }
 
-.feinman__link{
+.feynman__link{
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
@@ -236,10 +236,6 @@
 
 .section-subtitle_theme-dark{
   color: white;
-}
-
-.table__cell_theme_dark{
-  width: 200px;
 }
 
 .kaufman__tringle{
