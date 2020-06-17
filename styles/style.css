@@ -259,7 +259,7 @@
   position: relative;
 }
 
-.footer__columns_content_copyright{
+.footer__column_content_copyright{
   display: flex;
   flex-direction: column;
   flex-basis: 711px;
@@ -288,7 +288,7 @@
   color: #f2f2f2;
   margin-top: 20px;
 }
-.footer__columns_content_info{
+.footer__column_content_info{
   display: flex;
   flex-direction: column;
 }
