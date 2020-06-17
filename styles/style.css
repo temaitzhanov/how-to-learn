@@ -85,7 +85,7 @@
   margin: 0px 0px 0px 64px;
 }
 
-.header__illustration{
+.main__illustration{
   width: 765px;
   height: 608px;
   z-index: 1;
@@ -96,7 +96,7 @@
   color: #2f80ed;
 }
 
-.header__illustration_place_holder{
+.main__illustration_place_holder{
   position: absolute;
   bottom: 0px;
   right: 0px;
