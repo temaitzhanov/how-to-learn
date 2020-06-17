@@ -85,7 +85,7 @@
   margin: 0px 0px 0px 64px;
 }
 
-.main__illustration{
+.main-illustration{
   width: 765px;
   height: 608px;
   z-index: 1;
@@ -96,7 +96,7 @@
   color: #2f80ed;
 }
 
-.main__illustration_place_holder{
+.main-illustration_place_holder{
   position: absolute;
   bottom: 0px;
   right: 0px;
@@ -229,16 +229,16 @@
   background-color: #1f1f1f;
 }
 
-.section-title_theme-dark{
+.section-title_theme_dark{
   padding: 90px 0px 0px 0px;
   color: white;
 }
 
-.section-subtitle_theme-dark{
+.section-subtitle_theme_dark{
   color: white;
 }
 
-.kaufman__tringle{
+.kaufman__triangle{
   z-index: -1;
   position: absolute;
   top: 0;
