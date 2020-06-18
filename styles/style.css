@@ -4,9 +4,7 @@
   margin: 0 auto;
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
-.feynman{
-  margin: 0;
-}
+
 .header {
   height: 100vh;
   min-height: 600px;
@@ -173,6 +171,7 @@
   background-size: 867px 637px;
   position: relative;
   padding: 100px 0px 0px 0px;
+  margin: 0;
 }
 
 .feynman__title{
