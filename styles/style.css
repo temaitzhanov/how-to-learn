@@ -103,8 +103,6 @@
   width: 80%;
   font-size: 24px;
   line-height: 34px;
-  font-size: 24px;
-  line-height: 34px;
 }
 
 .two-columns__span-accent{
@@ -165,7 +163,7 @@
 }
 .feynman{
   height: 790px;
-  padding: 100px 0px 0px 0px;
+  background-color:  #f2f2f2;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -175,7 +173,7 @@
   background-size: 867px 637px;
   position: relative;
   z-index: -1;
-  background-color:  #f2f2f2;
+  padding: 100px 0px 0px 0px;
 }
 
 .feynman__title{
