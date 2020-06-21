@@ -270,7 +270,6 @@
 }
 
 .footer__column{
-  list-style: none;
   padding: 0;
   margin: 0;
 }
@@ -301,8 +300,12 @@
   color: #f2f2f2;
 }
 
-
 .footer__column-links{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.footer__column-link{
   text-decoration: none;
   color: #f2f2f2;
 }
