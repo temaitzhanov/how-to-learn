@@ -8,6 +8,5 @@
   position: absolute;
   top: 0;
   right: -210px;
-  animation: rotation linear 20s infinite;
   z-index: 0;
 }

@@ -8,7 +8,6 @@
 @import url(./__column/_content/footer__column_content_social.css);
 @import url(./__columns/footer__colums.css);
 @import url(./__social-icon/footer__social-icon.css);
-@import url(../logo/_place/logo_place_footer.css);
 .footer{
   min-height: 350px;
   background-color:  #1f1f1f;
